@@ -1,6 +1,6 @@
 def instantiate_new_array
   new_array = []
-  puts "returns an array that is empty"
+  puts new_array
 end
 
 def array_with_two_elements
