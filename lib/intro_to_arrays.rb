@@ -6,3 +6,7 @@ end
 def array_with_two_elements
   new_array = ["review", "me"]
 end
+def first_element(array, element)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift[0]
+end
